@@ -6,11 +6,22 @@ It brings together shared calendars, tasks, routines, and meal planning into one
 
 ## Features
 
-- Shared family calendar
-- Tasks and routines
-- Meal planning
-- Clean Nordic design
-- Works across phones, tablets, and shared displays
+- Shared family calendar  
+- Tasks and routines  
+- Meal planning  
+- Household organization  
+- Clean Nordic design  
+- Works across phones, tablets, and shared displays  
+
+## Free Family Planning Printables
+
+This repository also contains free printable planning resources:
+
+- Weekly family planner
+- Family chore chart
+- Kids morning routine chart
+
+These tools help families organize everyday life using simple planning systems.
 
 ## Website
 
